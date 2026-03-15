@@ -76,7 +76,7 @@ portfolio-website
 
 If you want to collaborate or have any questions:
 
-Email: your-email@example.com
+Email: sudhirppcl@gmail.com
 
 GitHub: https://github.com/yourusername
 
