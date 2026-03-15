@@ -78,7 +78,7 @@ If you want to collaborate or have any questions:
 
 Email: sudhirppcl@gmail.com
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/sudhirppcl
 
 ⭐ Support
 
